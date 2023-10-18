@@ -11,6 +11,8 @@
 # User-specific files (Mono)
 *.userprefs
 
+/FileForge/
+
 # Mono Auto Generated Files
 mono_crash.*
 
